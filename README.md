@@ -18,32 +18,32 @@
 
 <h3>Linux</h3>
 <ul>
-      <li>https://tryhackme.com/room/linprivesc</li>
-      <li>https://tryhackme.com/room/linuxprivescarena</li>
+      <li><a href="https://tryhackme.com/room/linprivesc">test</a></li>
+      <li><a href="https://tryhackme.com/room/linuxprivescarena">test</a></li>
 </ul>
 
 <h3>Windows</h3>
 <ul>
-      <li>https://tryhackme.com/room/windowsprivesc20</li>
-      <li>https://tryhackme.com/room/windowsprivescarena</li>
+      <li><a href="https://tryhackme.com/room/windowsprivesc20">test</a></li>
+      <li><a href="https://tryhackme.com/room/windowsprivescarena">test</a></li>
 </ul>
 
 <h2>Tools & Resources</h2>
 
 <h3>Linux</h3>
 <ul>
-      <li>https://gtfobins.github.io/</li>
-      <li>https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS</li>
-      <li>https://github.com/rebootuser/LinEnum</li>
-      <li>https://github.com/mzet-/linux-exploit-suggester</li>
-      <li>https://github.com/diego-treitos/linux-smart-enumeration</li>
-      <li>https://github.com/linted/linuxprivchecker</li>
-      <li>https://github.com/sagishahar/lpeworkshop</li>
+      <li><a href="https://gtfobins.github.io/">test</a></li>
+      <li><a href="https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS">test</a></li>
+      <li><a href="https://github.com/rebootuser/LinEnum">test</a></li>
+      <li><a href="https://github.com/mzet-/linux-exploit-suggester">test</a></li>
+      <li><a href="https://github.com/diego-treitos/linux-smart-enumeration">test</a></li>
+      <li><a href="https://github.com/linted/linuxprivchecker">test</a></li>
+      <li><a href="https://github.com/sagishahar/lpeworkshop">test</a></li>
 </ul>
 
 <h3>Windows</h3>
 <ul>
-      <li>https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS</li>
-      <li>https://github.com/itm4n/PrivescCheck</li>
-      <li>https://github.com/bitsadmin/wesng</li>
+      <li><a href="https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS">test</a></li>
+      <li><a href="https://github.com/itm4n/PrivescCheck">test</a></li>
+      <li><a href="https://github.com/bitsadmin/wesng">test</a></li>
 </ul>
