@@ -14,6 +14,15 @@
 
 </pre>
 
+<h2>Theory</h2>
+<ul>
+      <li><a href="https://attack.mitre.org/tactics/TA0004/">MITRE Description</a></li>
+      <li><a href="">test</a></li>
+      <li><a href="">test</a></li>
+      <li><a href="">test</a></li>
+      <li><a href="">test</a></li>
+</ul>
+
 <h2>TryHackMe Rooms</h2>
 
 <h3>Linux</h3>
