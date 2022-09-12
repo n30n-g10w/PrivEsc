@@ -18,9 +18,6 @@
 <ul>
       <li><a href="https://attack.mitre.org/tactics/TA0004/">MITRE PrivEsc description</a></li>
       <li><a href="https://www.cynet.com/network-attacks/privilege-escalation/">Cynet article on PrivEsc</a></li>
-      <li><a href="">test</a></li>
-      <li><a href="">test</a></li>
-      <li><a href="">test</a></li>
 </ul>
 
 <h2>TryHackMe Rooms</h2>
