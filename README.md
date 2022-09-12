@@ -39,6 +39,7 @@
 <h3>Linux</h3>
 <ul>
       <li><a href="https://gtfobins.github.io/">GTFObins</a></li>
+      <li><a href="https://www.linuxkernelcves.com/cves">Linux Kernel CVEs</a></li>
       <li><a href="https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS">linPEAS</a></li>
       <li><a href="https://github.com/rebootuser/LinEnum">LinEnum</a></li>
       <li><a href="https://github.com/mzet-/linux-exploit-suggester">linux-exploit-suggester</a></li>
