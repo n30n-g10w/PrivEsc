@@ -52,7 +52,7 @@
 
 <h3>Windows</h3>
 <ul>
-      <li><a href="https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS">test</a></li>
-      <li><a href="https://github.com/itm4n/PrivescCheck">test</a></li>
-      <li><a href="https://github.com/bitsadmin/wesng">test</a></li>
+      <li><a href="https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS">winPEAS</a></li>
+      <li><a href="https://github.com/itm4n/PrivescCheck">PrivescCheck</a></li>
+      <li><a href="https://github.com/bitsadmin/wesng">wesng</a></li>
 </ul>
