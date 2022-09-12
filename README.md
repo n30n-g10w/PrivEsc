@@ -52,5 +52,5 @@
 <ul>
       <li><a href="https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS">winPEAS</a></li>
       <li><a href="https://github.com/itm4n/PrivescCheck">PrivescCheck</a></li>
-      <li><a href="https://github.com/bitsadmin/wesng">wesng</a></li>
+      <li><a href="https://github.com/bitsadmin/wesng">WES-NG: Windows Exploit Suggester - Next Generation</a></li>
 </ul>
