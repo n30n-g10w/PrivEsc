@@ -50,6 +50,13 @@
 
 <h3>Windows</h3>
 <ul>
+      <li><a href="https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md">PayloadsAllTheThings - Windows Privilege Escalation</a></li>
+      <li><a href="https://github.com/gtworek/Priv2Admin">Priv2Admin - Abusing Windows Privileges</a></li>
+      <li><a href="https://github.com/antonioCoco/RogueWinRM">RogueWinRM Exploit</a></li>
+      <li><a href="https://jlajara.gitlab.io/others/2020/11/22/Potatoes_Windows_Privesc.html">Potatoes</a></li>
+      <li><a href="https://decoder.cloud/">Decoder's Blog</a></li>
+      <li><a href="https://dl.packetstormsecurity.net/papers/presentations/TokenKidnapping.pdf">Token Kidnapping</a></li>
+      <li><a href="https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation">Hacktricks - Windows Local Privilege Escalation</a></li>
       <li><a href="https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS">winPEAS</a></li>
       <li><a href="https://github.com/itm4n/PrivescCheck">PrivescCheck</a></li>
       <li><a href="https://github.com/bitsadmin/wesng">WES-NG</a></li>
